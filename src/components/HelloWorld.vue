@@ -1,7 +1,7 @@
 <script setup>
 import ClickCounter from "./ClickCounter.vue";
 import ItemList from "./ItemList.vue";
-import TodoList from "./Todolist.vue";
+import TodoList from "./TodoList.vue";
 
 defineProps({
   msg: { type: String, default: "" },
